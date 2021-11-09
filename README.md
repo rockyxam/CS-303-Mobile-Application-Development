@@ -24,9 +24,15 @@ or
 - Download the built APK from [here](https://github.com/roshanrahman/flutter-notes-app/raw/master/github_assets/draft.apk)
 
 ## Screenshots
-<img src="github_assets/edit.gif" height="800">
-<img src="github_assets/dark.gif" height="800">
 
-Feedback is welcome! Contact me for any info.
+![1](https://user-images.githubusercontent.com/49916341/140949371-f641fc2e-ea97-4bb9-a39a-56c8579df645.png)
+
+![2](https://user-images.githubusercontent.com/49916341/140949357-6a1358ff-4e9a-4f3e-b3d2-79dbce3b31de.png)
+
+![3](https://user-images.githubusercontent.com/49916341/140949361-d9f2fea2-2849-4196-860b-c04f6568891e.png)
+
+![4](https://user-images.githubusercontent.com/49916341/140949364-5eac643e-52b8-4ff3-907b-c049f9debe5e.png)
+
+![5](https://user-images.githubusercontent.com/49916341/140949368-e861d25f-fb14-44a5-9e67-1419a17738b7.png)
 
 
